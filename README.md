@@ -1,6 +1,8 @@
 # shoe-store-3d
 This is a front end design for an online shoe store with 3-D and parallax effects made with reactjs, thus making the site more interactive. 
 
+This project is made using ReactJS.
+
 This project uses :
 
 react-scroll, react-icons, framer-motion, styled components and more
